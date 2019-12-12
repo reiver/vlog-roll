@@ -3,7 +3,7 @@
 These are some of the things I watch, categorized by topics.
 
 Some of these things I watch very regularly.
-While others I was infrequently.
+While others I watch infrequently.
 
 ## Astronomy
 * [What Da Math](https://www.youtube.com/whatdamath) by Anton Petrov
