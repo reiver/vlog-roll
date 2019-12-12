@@ -48,6 +48,9 @@ While others I watch infrequently.
 ## Star Trek
 * [Lore Reloaded](https://www.youtube.com/lorereloaded)
 
+## Video Games
+* [Ragnar Rox](https://www.youtube.com/ragnarroxshow)
+
 ## Vlogging
 * [DSLR Video Shooter](https://www.youtube.com/DSLRVideoShooter) by Caleb Pike
 * [D4Darious](https://www.youtube.com/d4darious) by Darious J. Britt
