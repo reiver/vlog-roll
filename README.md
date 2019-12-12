@@ -14,9 +14,10 @@ While others I was infrequently.
 ## Comedy
 * [Ask A Ninja](http://youtube.com/askaninja)
 
-## Comics
+## Comics & Animation
 * [Comics Explained](https://www.youtube.com/comicsexplained)
 * [Comicstorian](https://www.youtube.com/comicstorian)
+* [Super Eyepatch Wolf](https://www.youtube.com/channel/UCtGoikgbxP4F3rgI9PldI9g)
 
 ## Computers
 * [Computerphile](https://www.youtube.com/user/computerphile)
