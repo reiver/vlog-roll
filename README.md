@@ -6,6 +6,7 @@ Some of these things I watch very regularly.
 While others I watch infrequently.
 
 ## Table of Contents
+* [Comedy](comedy.md)
 * [Fiction](fiction.md)
 * [Tech](tech.md)
 * [Vlogging](vlogging.md)
@@ -15,9 +16,6 @@ While others I watch infrequently.
 
 ## Behavioral Science
 * [The Dissenter](https://www.youtube.com/channel/UCTUcatGD6xu4tAcxG-1D4Bg) by Ricardo Lopes
-
-## Comedy
-* [Ask A Ninja](http://youtube.com/askaninja)
 
 ## News Opinion & Commentary
 * [Subverse News](https://www.youtube.com/subversenews)
