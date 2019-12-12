@@ -9,11 +9,9 @@ While others I watch infrequently.
 * [Comedy](comedy.md)
 * [Commentary](commentary.md)
 * [Fiction Commentary](fiction-commentary.md)
+* [Outer Space](outer-space.md)
 * [Tech](tech.md)
 * [Vlogging](vlogging.md)
-
-## Astronomy
-* [What Da Math](https://www.youtube.com/whatdamath) by Anton Petrov
 
 ## Behavioral Science
 * [The Dissenter](https://www.youtube.com/channel/UCTUcatGD6xu4tAcxG-1D4Bg) by Ricardo Lopes
