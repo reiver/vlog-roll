@@ -6,6 +6,7 @@ Some of these things I watch very regularly.
 While others I watch infrequently.
 
 ## Table of Contents
+* [Behavioral Science](behavioral-science.md)
 * [Comedy](comedy.md)
 * [Commentary](commentary.md)
 * [Fiction](fiction.md)
@@ -13,7 +14,4 @@ While others I watch infrequently.
 * [Outer Space](outer-space.md)
 * [Tech](tech.md)
 * [Vlogging](vlogging.md)
-
-## Behavioral Science
-* [The Dissenter](https://www.youtube.com/channel/UCTUcatGD6xu4tAcxG-1D4Bg) by Ricardo Lopes
 
