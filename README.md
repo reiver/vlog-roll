@@ -7,6 +7,7 @@ While others I watch infrequently.
 
 ## Table of Contents
 * [fiction](fiction.md)
+* [vlogging](vlogging.md)
 
 ## Astronomy
 * [What Da Math](https://www.youtube.com/whatdamath) by Anton Petrov
@@ -31,13 +32,3 @@ While others I watch infrequently.
 * [Subverse News](https://www.youtube.com/subversenews)
 * [Timcast](https://www.youtube.com/timcast) by Tim Pool
 * [Tim Pool's opinions and commentary](https://www.youtube.com/timcastnews)
-
-## Vlogging
-* [DSLR Video Shooter](https://www.youtube.com/DSLRVideoShooter) by Caleb Pike
-* [D4Darious](https://www.youtube.com/d4darious) by Darious J. Britt
-* [Filmmaker IQ](https://www.youtube.com/filmmakeriq)
-* [Film Riot](https://www.youtube.com/filmriot)
-* [Indy Mogul](https://www.youtube.com/indymogul)
-* [Kevin - The Basic Filmmaker](https://www.youtube.com/TheBasicFilmmaker)
-* [This Guy Edits](https://www.youtube.com/thisguyedits)
-* [Wolfcrow](https://www.youtube.com/wolfcrow) by Sareesh Sudhakaran
