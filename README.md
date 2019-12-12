@@ -35,7 +35,7 @@ While others I was infrequently.
 * [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
 
 ## Math
-* [3Blue1Brown](https://www.youtube.com/3blue1brown)
+* [3Blue1Brown](https://www.youtube.com/3blue1brown) by Grant Sanderson
 
 ## News Opinion & Commentary
 * [Subverse News](https://www.youtube.com/subversenews)
