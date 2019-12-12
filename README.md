@@ -6,10 +6,10 @@ Some of these things I watch very regularly.
 While others I was infrequently.
 
 ## Astronomy
-* [What Da Math by Anton Petrov](https://www.youtube.com/whatdamath)
+* [What Da Math](https://www.youtube.com/whatdamath) by Anton Petrov
 
 ## Behavioral Science
-* [The Dissenter by Ricardo Lopes](https://www.youtube.com/channel/UCTUcatGD6xu4tAcxG-1D4Bg)
+* [The Dissenter](https://www.youtube.com/channel/UCTUcatGD6xu4tAcxG-1D4Bg) by Ricardo Lopes
 
 ## Comedy
 * [Ask A Ninja](http://youtube.com/askaninja)
@@ -39,21 +39,21 @@ While others I was infrequently.
 
 ## News Opinion & Commentary
 * [Subverse News](https://www.youtube.com/subversenews)
-* [Timcast by Tim Pool](https://www.youtube.com/timcast)
+* [Timcast](https://www.youtube.com/timcast) by Tim Pool
 * [Tim Pool's opinions and commentary](https://www.youtube.com/timcastnews)
 
 ## Star Wars
 * [Star Wars Theory](https://www.youtube.com/starwarstheory)
 
 ## Star Trek
-* [Lore Reloaded by ](https://www.youtube.com/lorereloaded)
+* [Lore Reloaded](https://www.youtube.com/lorereloaded)
 
 ## Vlogging
-* [DSLR Video Shooter by Caleb Pike](https://www.youtube.com/DSLRVideoShooter)
-* [D4Darious by Darious J. Britt](https://www.youtube.com/d4darious)
+* [DSLR Video Shooter](https://www.youtube.com/DSLRVideoShooter) by Caleb Pike
+* [D4Darious](https://www.youtube.com/d4darious) by Darious J. Britt
 * [Filmmaker IQ](https://www.youtube.com/filmmakeriq)
 * [Film Riot](https://www.youtube.com/filmriot)
 * [Indy Mogul](https://www.youtube.com/indymogul)
 * [Kevin - The Basic Filmmaker](https://www.youtube.com/TheBasicFilmmaker)
 * [This Guy Edits](https://www.youtube.com/thisguyedits)
-* [Wolfcrow by Sareesh Sudhakaran](https://www.youtube.com/wolfcrow)
+* [Wolfcrow](https://www.youtube.com/wolfcrow) by Sareesh Sudhakaran
