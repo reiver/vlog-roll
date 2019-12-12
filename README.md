@@ -8,6 +8,7 @@ While others I watch infrequently.
 ## Table of Contents
 * [Comedy](comedy.md)
 * [Commentary](commentary.md)
+* [Fiction](fiction.md)
 * [Fiction Commentary](fiction-commentary.md)
 * [Outer Space](outer-space.md)
 * [Tech](tech.md)
