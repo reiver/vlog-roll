@@ -6,13 +6,35 @@ Some of these things I watch very regularly.
 While others I was infrequently.
 
 ## Astronomy
-* [Anton Petrov's What Da Math](https://www.youtube.com/whatdamath)
+* [What Da Math by Anton Petrov](https://www.youtube.com/whatdamath)
 
 ## Behavioral Science
 * [The Dissenter by Ricardo Lopes](https://www.youtube.com/channel/UCTUcatGD6xu4tAcxG-1D4Bg)
 
-## Data Science
+## Comedy
+* [Ask A Ninja](http://youtube.com/askaninja)
+
+## Comics
+* [Comics Explained](https://www.youtube.com/comicsexplained)
+* [Comicstorian](https://www.youtube.com/comicstorian)
+
+## Computers
+* [Computerphile](https://www.youtube.com/user/computerphile)
+
+## Dragon Ball
+* [BlackScape](https://www.youtube.com/channel/UCdYBVZV5eDmQjJmNcGdQJuQ)
+* [ExperGamez](https://www.youtube.com/expergamez)
+* [Geekdom101](https://www.youtube.com/channel/UCgIqhB8oD5SZ0yUSp71VCOQ)
+* [MaSTAR Media](https://www.youtube.com/channel/UCObfIFcPxDOsyNXTG3ISyBg)
+* [Oppai Senpai](https://www.youtube.com/user/AnimeLiveReactions)
+* [Team Four Star](https://www.youtube.com/TeamFourStar)
+
+## Machine Learning
 * [Learn Data Science](https://www.youtube.com/channel/UCJhW_16uxALr0X4olEW2p5A)
+* [Two Minute Papers](https://www.youtube.com/channel/UCbfYPyITQ-7l4upoX8nvctg)
+
+## Math
+* [3Blue1Brown](https://www.youtube.com/3blue1brown)
 
 ## News Opinion & Commentary
 * [Subverse News](https://www.youtube.com/subversenews)
@@ -28,5 +50,9 @@ While others I was infrequently.
 ## Vlogging
 * [DSLR Video Shooter by Caleb Pike](https://www.youtube.com/DSLRVideoShooter)
 * [D4Darious by Darious J. Britt](https://www.youtube.com/d4darious)
+* [Filmmaker IQ](https://www.youtube.com/filmmakeriq)
 * [Film Riot](https://www.youtube.com/filmriot)
+* [Indy Mogul](https://www.youtube.com/indymogul)
+* [Kevin - The Basic Filmmaker](https://www.youtube.com/TheBasicFilmmaker)
+* [This Guy Edits](https://www.youtube.com/thisguyedits)
 * [Wolfcrow by Sareesh Sudhakaran](https://www.youtube.com/wolfcrow)
