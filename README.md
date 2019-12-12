@@ -6,9 +6,9 @@ Some of these things I watch very regularly.
 While others I watch infrequently.
 
 ## Table of Contents
-* [fiction](fiction.md)
-* [vlogging](vlogging.md)
-* [tech](tech.md)
+* [Fiction](fiction.md)
+* [Vlogging](vlogging.md)
+* [Tech](tech.md)
 
 ## Astronomy
 * [What Da Math](https://www.youtube.com/whatdamath) by Anton Petrov
