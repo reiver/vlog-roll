@@ -7,8 +7,8 @@ While others I watch infrequently.
 
 ## Table of Contents
 * [Fiction](fiction.md)
-* [Vlogging](vlogging.md)
 * [Tech](tech.md)
+* [Vlogging](vlogging.md)
 
 ## Astronomy
 * [What Da Math](https://www.youtube.com/whatdamath) by Anton Petrov
