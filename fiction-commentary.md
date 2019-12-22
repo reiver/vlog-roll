@@ -18,11 +18,11 @@
 ## Dune Commentary
 * [Ideas Of Fire And Ice](https://www.youtube.com/channel/UC1rFmaGLYr0Ve_Y_soxZNWQ) by Quinn
 
-## Star Wars Commentary
-* [Star Wars Theory](https://www.youtube.com/starwarstheory)
-
 ## Star Trek Commentary
 * [Lore Reloaded](https://www.youtube.com/lorereloaded)
+
+## Star Wars Commentary
+* [Star Wars Theory](https://www.youtube.com/starwarstheory)
 
 ## Video Game Commentary
 * [Ragnar Rox](https://www.youtube.com/ragnarroxshow)
