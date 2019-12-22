@@ -15,6 +15,9 @@
 * [Oppai Senpai](https://www.youtube.com/user/AnimeLiveReactions)
 * [Team Four Star](https://www.youtube.com/TeamFourStar)
 
+## Dune Commentary
+* [Ideas Of Fire And Ice](https://www.youtube.com/channel/UC1rFmaGLYr0Ve_Y_soxZNWQ) by Quinn
+
 ## Star Wars Commentary
 * [Star Wars Theory](https://www.youtube.com/starwarstheory)
 
