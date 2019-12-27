@@ -25,4 +25,5 @@
 * [Star Wars Theory](https://www.youtube.com/starwarstheory)
 
 ## Video Game Commentary
+* [Max Derrat](https://www.youtube.com/channel/UCj8orMezFWVcoN-4S545Wtw)
 * [Ragnar Rox](https://www.youtube.com/ragnarroxshow)
