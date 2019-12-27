@@ -11,6 +11,7 @@ While others I watch infrequently.
 * [Commentary](commentary.md)
 * [Fiction](fiction.md)
 * [Fiction Commentary](fiction-commentary.md)
+* [History](history.md)
 * [Outer Space](outer-space.md)
 * [Tech](tech.md)
 * [Vlogging](vlogging.md)
