@@ -4,6 +4,7 @@
 * [Super Eyepatch Wolf](https://www.youtube.com/channel/UCtGoikgbxP4F3rgI9PldI9g)
 
 ## Comic Book Commentary
+* [Blerd Without Fear](https://www.youtube.com/channel/UCKNV3if6zB7MM55Gr0DCQ9w) by Ernie Carothers
 * [Comics Explained](https://www.youtube.com/comicsexplained)
 * [Comicstorian](https://www.youtube.com/comicstorian)
 
