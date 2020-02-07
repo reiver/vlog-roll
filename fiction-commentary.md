@@ -5,6 +5,7 @@
 
 ## Comic Book Commentary
 * [Blerd Without Fear](https://www.youtube.com/channel/UCKNV3if6zB7MM55Gr0DCQ9w) by Ernie Carothers
+* [Comic Book University](https://www.youtube.com/channel/UCEFcfli17rgAQJ5yXvwuK2g)
 * [Comics Explained](https://www.youtube.com/comicsexplained)
 * [Comicstorian](https://www.youtube.com/comicstorian)
 
