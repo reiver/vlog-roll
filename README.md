@@ -16,4 +16,5 @@ While others I watch infrequently.
 * [Outer Space](outer-space.md)
 * [Story Telling](story-telling.md)
 * [Tech](tech.md)
+* [Vivarium](vivarium.md)
 * [Vlogging](vlogging.md)
