@@ -28,4 +28,5 @@
 
 ## Video Game Commentary
 * [Max Derrat](https://www.youtube.com/channel/UCj8orMezFWVcoN-4S545Wtw)
+* [PatmanQC - History of arcade game documentaries](https://www.youtube.com/channel/UCCkuHXWWyw-3KXKIHyc88oA) by Patrick
 * [Ragnar Rox](https://www.youtube.com/ragnarroxshow)
