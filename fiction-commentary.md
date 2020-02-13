@@ -3,6 +3,9 @@
 ## Anime & Manga Commentary
 * [Super Eyepatch Wolf](https://www.youtube.com/channel/UCtGoikgbxP4F3rgI9PldI9g)
 
+## Collectables
+* [Bobby Skullface](https://www.youtube.com/channel/UCyPkO4wSqfurw8Y-69wPQ9g)
+
 ## Comic Book Commentary
 * [Blerd Without Fear](https://www.youtube.com/channel/UCKNV3if6zB7MM55Gr0DCQ9w) by Ernie Carothers
 * [Comic Book University](https://www.youtube.com/channel/UCEFcfli17rgAQJ5yXvwuK2g)
