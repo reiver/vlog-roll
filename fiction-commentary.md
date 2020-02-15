@@ -15,6 +15,7 @@
 
 ## Dragon Ball Commentary
 * [BlackScape](https://www.youtube.com/channel/UCdYBVZV5eDmQjJmNcGdQJuQ)
+* [CALLMEARJ](https://www.youtube.com/channel/UCnLB2xj5RR5ep50FDrtScPA)
 * [ExperGamez](https://www.youtube.com/expergamez)
 * [Geekdom101](https://www.youtube.com/channel/UCgIqhB8oD5SZ0yUSp71VCOQ)
 * [MaSTAR Media](https://www.youtube.com/channel/UCObfIFcPxDOsyNXTG3ISyBg)
