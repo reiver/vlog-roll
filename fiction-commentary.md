@@ -4,6 +4,7 @@
 * [Super Eyepatch Wolf](https://www.youtube.com/channel/UCtGoikgbxP4F3rgI9PldI9g)
 
 ## Collectables
+* [Benscollectables](https://www.youtube.com/channel/UCoAIXvNjN5bYzMYNce0M3uw)
 * [Bobby Skullface](https://www.youtube.com/channel/UCyPkO4wSqfurw8Y-69wPQ9g)
 * [Fwoosh](https://www.youtube.com/channel/UCF4CListjhpMJilZojUQVIA)
 
