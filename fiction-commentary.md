@@ -7,6 +7,7 @@
 * [Benscollectables](https://www.youtube.com/channel/UCoAIXvNjN5bYzMYNce0M3uw)
 * [Bobby Skullface](https://www.youtube.com/channel/UCyPkO4wSqfurw8Y-69wPQ9g)
 * [Fwoosh](https://www.youtube.com/channel/UCF4CListjhpMJilZojUQVIA)
+* [Pixel Dan](https://www.youtube.com/user/Mandalorian30)
 
 ## Comic Book Commentary
 * [Blerd Without Fear](https://www.youtube.com/channel/UCKNV3if6zB7MM55Gr0DCQ9w) by Ernie Carothers
