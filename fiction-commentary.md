@@ -7,6 +7,7 @@
 * [Benscollectables](https://www.youtube.com/channel/UCoAIXvNjN5bYzMYNce0M3uw)
 * [Bobby Skullface](https://www.youtube.com/channel/UCyPkO4wSqfurw8Y-69wPQ9g)
 * [Fwoosh](https://www.youtube.com/channel/UCF4CListjhpMJilZojUQVIA)
+* [Kuma Style](https://www.youtube.com/channel/UCDINwjTDiVObsc6GcI4M0RA)
 * [Pixel Dan](https://www.youtube.com/user/Mandalorian30)
 
 ## Comic Book Commentary
