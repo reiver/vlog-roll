@@ -9,6 +9,7 @@
 * [Fwoosh](https://www.youtube.com/channel/UCF4CListjhpMJilZojUQVIA)
 * [Kuma Style](https://www.youtube.com/channel/UCDINwjTDiVObsc6GcI4M0RA)
 * [Pixel Dan](https://www.youtube.com/user/Mandalorian30)
+* [Tydirium hanger](https://www.youtube.com/channel/UCxzT4n9ItQEx_aVMqy_ORVQ)
 
 ## Comic Book Commentary
 * [Blerd Without Fear](https://www.youtube.com/channel/UCKNV3if6zB7MM55Gr0DCQ9w) by Ernie Carothers
