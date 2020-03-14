@@ -23,6 +23,7 @@
 * [CALLMEARJ](https://www.youtube.com/channel/UCnLB2xj5RR5ep50FDrtScPA)
 * [ExperGamez](https://www.youtube.com/expergamez)
 * [Geekdom101](https://www.youtube.com/channel/UCgIqhB8oD5SZ0yUSp71VCOQ)
+* [MasakoX](https://www.youtube.com/channel/UCLKkPZZ-LW1_DHCP_5ADtxg)
 * [MaSTAR Media](https://www.youtube.com/channel/UCObfIFcPxDOsyNXTG3ISyBg)
 * [Oppai Senpai](https://www.youtube.com/user/AnimeLiveReactions)
 * [Team Four Star](https://www.youtube.com/TeamFourStar)
