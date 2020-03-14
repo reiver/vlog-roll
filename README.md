@@ -13,6 +13,7 @@ While others I watch infrequently.
 * [Fiction Commentary](fiction-commentary.md)
 * [History](history.md)
 * [Life Science](life-science.md)
+* [Mechanics](mechanics.md)
 * [Outer Space](outer-space.md)
 * [Practical Effects](practical-effects.md)
 * [Story Telling](story-telling.md)
