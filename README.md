@@ -14,6 +14,7 @@ While others I watch infrequently.
 * [History](history.md)
 * [Life Science](life-science.md)
 * [Outer Space](outer-space.md)
+* [Practical Effects](practical-effects.md)
 * [Story Telling](story-telling.md)
 * [Tech](tech.md)
 * [Vivarium](vivarium.md)
