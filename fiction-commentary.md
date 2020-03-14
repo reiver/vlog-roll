@@ -9,6 +9,7 @@
 * [Fwoosh](https://www.youtube.com/channel/UCF4CListjhpMJilZojUQVIA)
 * [Kuma Style](https://www.youtube.com/channel/UCDINwjTDiVObsc6GcI4M0RA)
 * [Pixel Dan](https://www.youtube.com/user/Mandalorian30)
+* [Toy Galaxy](https://www.youtube.com/channel/UCjoe3Qo_DymYyBR6X9VxFjQ)
 * [Tydirium hanger](https://www.youtube.com/channel/UCxzT4n9ItQEx_aVMqy_ORVQ)
 
 ## Comic Book Commentary
