@@ -1,6 +1,18 @@
 # Vlog Roll: Practical Effects
 
-## Practical Effects
+## Insulation Foam
 * [Dave's Model Workshop](https://www.youtube.com/channel/UCAqBAjIP5v1wgKeu5Z9dcjg)
-* [TheCrafsMan SteadyCraftin](https://www.youtube.com/channel/UCzsjHlc0WRwZYwlinsmtM4w)
+* [DFormers](https://www.youtube.com/channel/UCUxx6OWobZF3pKB_Djf22cw)
 * [TechChucker](https://www.youtube.com/channel/UC-a2Zysew1Hid4WS-KPoAKg)
+
+## Molding
+* [TheCrafsMan SteadyCraftin](https://www.youtube.com/channel/UCzsjHlc0WRwZYwlinsmtM4w)
+
+## Painting
+* [Dave's Model Workshop](https://www.youtube.com/channel/UCAqBAjIP5v1wgKeu5Z9dcjg)
+
+## Styrene
+* [Dave's Model Workshop](https://www.youtube.com/channel/UCAqBAjIP5v1wgKeu5Z9dcjg)
+
+## Transformers
+* [DFormers](https://www.youtube.com/channel/UCUxx6OWobZF3pKB_Djf22cw)
