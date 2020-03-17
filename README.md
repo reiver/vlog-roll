@@ -20,3 +20,4 @@ While others I watch infrequently.
 * [Tech](tech.md)
 * [Vivarium](vivarium.md)
 * [Vlogging](vlogging.md)
+* [Welding](welding.md)
