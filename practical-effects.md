@@ -16,6 +16,7 @@
 
 ## Painting
 * [Dave's Model Workshop](https://www.youtube.com/channel/UCAqBAjIP5v1wgKeu5Z9dcjg)
+* [It's A Trap!](https://www.youtube.com/user/itsatrapuk)
 
 ## Styrene
 * [Dave's Model Workshop](https://www.youtube.com/channel/UCAqBAjIP5v1wgKeu5Z9dcjg)
