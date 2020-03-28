@@ -12,6 +12,7 @@
 * [Pixel Dan](https://www.youtube.com/user/Mandalorian30)
 * [Toy Galaxy](https://www.youtube.com/channel/UCjoe3Qo_DymYyBR6X9VxFjQ)
 * [Tydirium hanger](https://www.youtube.com/channel/UCxzT4n9ItQEx_aVMqy_ORVQ)
+* [Unparalleled Universe](https://www.youtube.com/channel/UCqgLJ0Jsz-2Pt41u9lfMbGQ)
 
 ## Comic Book Commentary
 * [Blerd Without Fear](https://www.youtube.com/channel/UCKNV3if6zB7MM55Gr0DCQ9w) by Ernie Carothers
