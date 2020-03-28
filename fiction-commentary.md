@@ -8,6 +8,7 @@
 * [Bobby Skullface](https://www.youtube.com/channel/UCyPkO4wSqfurw8Y-69wPQ9g)
 * [D Amazing](https://www.youtube.com/channel/UCFLC2a_5-6wwleL1RMkm7-w)
 * [Fwoosh](https://www.youtube.com/channel/UCF4CListjhpMJilZojUQVIA)
+* [J Hernandez](https://www.youtube.com/channel/UCei5Wfs6x0Itrm4Z8AvMcDA)
 * [Kuma Style](https://www.youtube.com/channel/UCDINwjTDiVObsc6GcI4M0RA)
 * [Pixel Dan](https://www.youtube.com/user/Mandalorian30)
 * [Toy Galaxy](https://www.youtube.com/channel/UCjoe3Qo_DymYyBR6X9VxFjQ)
