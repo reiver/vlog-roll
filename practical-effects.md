@@ -11,6 +11,7 @@
 * [Black Magic Craft](https://www.youtube.com/channel/UC2Rlv-ug-mtnXuMwlpcqFgg)
 * [Dave's Model Workshop](https://www.youtube.com/channel/UCAqBAjIP5v1wgKeu5Z9dcjg)
 * [DFormers](https://www.youtube.com/channel/UCUxx6OWobZF3pKB_Djf22cw)
+* [Mechbay](https://www.youtube.com/channel/UCuy5O81qVOPmWHipzFdcZVw)
 * [TheCrafsMan SteadyCraftin](https://www.youtube.com/channel/UCzsjHlc0WRwZYwlinsmtM4w)
 
 ## Molding
