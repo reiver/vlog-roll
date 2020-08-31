@@ -7,6 +7,7 @@ While others I watch infrequently.
 
 ## Table of Contents
 * [Behavioral Science](behavioral-science.md)
+* [Collectables](collectables.md)
 * [Comedy](comedy.md)
 * [Commentary](commentary.md)
 * [Fiction](fiction.md)
