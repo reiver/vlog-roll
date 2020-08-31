@@ -5,14 +5,12 @@
 
 ## Collectables
 * [Benscollectables](https://www.youtube.com/channel/UCoAIXvNjN5bYzMYNce0M3uw)
-* [Bobby Skullface](https://www.youtube.com/channel/UCyPkO4wSqfurw8Y-69wPQ9g)
 * [D Amazing](https://www.youtube.com/channel/UCFLC2a_5-6wwleL1RMkm7-w)
 * [Fwoosh](https://www.youtube.com/channel/UCF4CListjhpMJilZojUQVIA)
 * [J Hernandez](https://www.youtube.com/channel/UCei5Wfs6x0Itrm4Z8AvMcDA)
 * [Kuma Style](https://www.youtube.com/channel/UCDINwjTDiVObsc6GcI4M0RA)
 * [Pixel Dan](https://www.youtube.com/user/Mandalorian30)
 * [Toy Galaxy](https://www.youtube.com/channel/UCjoe3Qo_DymYyBR6X9VxFjQ)
-* [Tydirium hanger](https://www.youtube.com/channel/UCxzT4n9ItQEx_aVMqy_ORVQ)
 * [Unparalleled Universe](https://www.youtube.com/channel/UCqgLJ0Jsz-2Pt41u9lfMbGQ)
 
 ## Collectables Industry
@@ -26,6 +24,7 @@
 
 ## Comic Book Industry
 * [Comics, by Perch](https://www.youtube.com/channel/UCw4ivsPeqZVtHD85VjVnNaw)
+* [Thinking Critical](https://www.youtube.com/channel/UCclc80TgD5XVehdYNXEx59w)
 
 ## Dragon Ball Commentary
 * [BlackScape](https://www.youtube.com/channel/UCdYBVZV5eDmQjJmNcGdQJuQ)
@@ -45,6 +44,17 @@
 
 ## Star Wars Commentary
 * [Star Wars Theory](https://www.youtube.com/starwarstheory)
+
+## Transformers Collectables
+* [Bobby Skullface](https://www.youtube.com/channel/UCyPkO4wSqfurw8Y-69wPQ9g)
+* [Deluxe Baldwin](https://www.youtube.com/channel/UCG5rYyPDJsm3Wyv4v-0s0AA)
+* [emgo316](https://www.youtube.com/channel/UCVEDzEYSNi5FwEKmLY6LT0Q)
+* [PrimeVsPrime](https://www.youtube.com/channel/UCVRX-xxa69loL7-Ac2vAF_w)
+* [Tydirium Hanger](https://www.youtube.com/channel/UCxzT4n9ItQEx_aVMqy_ORVQ/videos)
+
+## Transformers Commentary
+* [Chris McFeely](https://www.youtube.com/user/ChrisMcFeely)
+* [RodimusPrimal](https://www.youtube.com/user/RodimusPrimal)
 
 ## Video Game Commentary
 * [Atari Archive](https://www.youtube.com/channel/UCo_f7y6sBDmFnGbZoq1Ce_w)
