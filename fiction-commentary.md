@@ -15,11 +15,17 @@
 * [Tydirium hanger](https://www.youtube.com/channel/UCxzT4n9ItQEx_aVMqy_ORVQ)
 * [Unparalleled Universe](https://www.youtube.com/channel/UCqgLJ0Jsz-2Pt41u9lfMbGQ)
 
+## Collectables Industry
+* [Spector Creative](https://www.youtube.com/channel/UCg_CCOtabpHyZyCQkB8NsuQ)
+
 ## Comic Book Commentary
 * [Blerd Without Fear](https://www.youtube.com/channel/UCKNV3if6zB7MM55Gr0DCQ9w) by Ernie Carothers
 * [Comic Book University](https://www.youtube.com/channel/UCEFcfli17rgAQJ5yXvwuK2g)
 * [Comics Explained](https://www.youtube.com/comicsexplained)
 * [Comicstorian](https://www.youtube.com/comicstorian)
+
+## Comic Book Industry
+* [Comics, by Perch](https://www.youtube.com/channel/UCw4ivsPeqZVtHD85VjVnNaw)
 
 ## Dragon Ball Commentary
 * [BlackScape](https://www.youtube.com/channel/UCdYBVZV5eDmQjJmNcGdQJuQ)
