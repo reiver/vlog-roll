@@ -11,7 +11,10 @@
 * [Unparalleled Universe](https://www.youtube.com/channel/UCqgLJ0Jsz-2Pt41u9lfMbGQ)
 
 ## History
+* [Analog Toys](https://www.youtube.com/channel/UCVvR_X1TXqUeLDV_hDPA2yA)
+* [RetroBlasting](https://www.youtube.com/user/retroblasting)
 * [Toy Galaxy](https://www.youtube.com/channel/UCjoe3Qo_DymYyBR6X9VxFjQ)
+* [Toy Polloi](https://www.youtube.com/user/toypolloi)
 
 ## Industry
 * [Spector Creative](https://www.youtube.com/channel/UCg_CCOtabpHyZyCQkB8NsuQ)
