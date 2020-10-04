@@ -1,5 +1,10 @@
 # Vlog Roll: Collectables
 
+## Design & Development
+* [DCB Variety Hour](https://www.youtube.com/user/dustincropsboy)
+* [glorbesworld customs](https://www.youtube.com/channel/UCN91N-G-i_u4WRYWtOoVhSQ)
+* [Spector Creative](https://www.youtube.com/channel/UCg_CCOtabpHyZyCQkB8NsuQ)
+
 ## Reviews & News
 * [Benscollectables](https://www.youtube.com/channel/UCoAIXvNjN5bYzMYNce0M3uw)
 * [D Amazing](https://www.youtube.com/channel/UCFLC2a_5-6wwleL1RMkm7-w)
@@ -24,5 +29,5 @@
 * [Deluxe Baldwin](https://www.youtube.com/channel/UCG5rYyPDJsm3Wyv4v-0s0AA)
 * [emgo316](https://www.youtube.com/channel/UCVEDzEYSNi5FwEKmLY6LT0Q)
 * [PrimeVsPrime](https://www.youtube.com/channel/UCVRX-xxa69loL7-Ac2vAF_w)
+* [The 80's Transformers Fan](https://www.youtube.com/user/80sTransfromersFan)
 * [Tydirium Hanger](https://www.youtube.com/channel/UCxzT4n9ItQEx_aVMqy_ORVQ/videos)
-
