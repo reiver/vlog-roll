@@ -30,4 +30,5 @@
 * [emgo316](https://www.youtube.com/channel/UCVEDzEYSNi5FwEKmLY6LT0Q)
 * [PrimeVsPrime](https://www.youtube.com/channel/UCVRX-xxa69loL7-Ac2vAF_w)
 * [The 80's Transformers Fan](https://www.youtube.com/user/80sTransfromersFan)
+* [The Lazy Eyebrow](https://www.youtube.com/channel/UClOs-_ohni8SfWRS6glsGIQ)
 * [Tydirium Hanger](https://www.youtube.com/channel/UCxzT4n9ItQEx_aVMqy_ORVQ/videos)
