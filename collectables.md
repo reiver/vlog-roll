@@ -32,3 +32,4 @@
 * [The 80's Transformers Fan](https://www.youtube.com/user/80sTransfromersFan)
 * [The Lazy Eyebrow](https://www.youtube.com/channel/UClOs-_ohni8SfWRS6glsGIQ)
 * [Tydirium Hanger](https://www.youtube.com/channel/UCxzT4n9ItQEx_aVMqy_ORVQ/videos)
+* [Vecta Sigma Reviews](https://www.youtube.com/channel/UCQ13HqpkSQlZhxhdDB7wXYQ)
