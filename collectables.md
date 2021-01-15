@@ -11,6 +11,7 @@
 * [Fwoosh](https://www.youtube.com/channel/UCF4CListjhpMJilZojUQVIA)
 * [J Hernandez](https://www.youtube.com/channel/UCei5Wfs6x0Itrm4Z8AvMcDA)
 * [Jay Cochran](https://www.youtube.com/channel/UC5sGzT6JyMz6ZEglPS8Im3Q)
+* [Jedha Patrol](https://www.youtube.com/channel/UCQWQcxSnl-F1azTEeqPCYHw)
 * [Kuma Style](https://www.youtube.com/channel/UCDINwjTDiVObsc6GcI4M0RA)
 * [Pixel Dan](https://www.youtube.com/user/Mandalorian30)
 * [Unparalleled Universe](https://www.youtube.com/channel/UCqgLJ0Jsz-2Pt41u9lfMbGQ)
